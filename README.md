@@ -4,8 +4,8 @@
 # Análise Exploratória de Dados do Airbnb de Tóquio
 
 
-Esta repo contém o projeto referente a análise exploratória de dados do [Airbnb](https://www.airbnb.com.br/) de Tóquio. <br>
-Foi utilizado o dataset resumido encontrado no portal [Inside Airbnb](http://insideairbnb.com/get-the-data.html), onde é possível baixar os dados das cidades mais populares do Airbnb
+Repositório que contém o projeto referente a análise exploratória de dados do [Airbnb](https://www.airbnb.com.br/) de Tóquio. <br>
+Foi utilizado o dataset resumido encontrado no portal [Inside Airbnb](http://insideairbnb.com/get-the-data.html), onde é possível baixar os dados das cidades mais populares do Airbnb, o dataset foi atualizado até o dia 20 de Julho de 2021.
 <br>
 
 Qualquer dúvida ou sugestão, entre em contato:
